@@ -1,6 +1,8 @@
 # 🌟 Textual SQL Magic 🌟
 
-![Textual SQL Magic Logo](path/to/your/image.png)  <!-- You can add the actual path to your image file here -->
+ ![text2](https://github.com/user-attachments/assets/9b0ce252-9900-4156-8f52-04d5042d5906)
+![text1](https://github.com/user-attachments/assets/94a9d798-460f-4fde-aaf1-d240ea16ff97)
+
 
 ## Table of Contents
 
@@ -9,8 +11,6 @@
 - [Tech Stack](#tech-stack)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
 
 ---
 
@@ -40,17 +40,22 @@ The core of the app is powered by a **language model (LLM)** that translates hum
 - **Database**: [SQLite](https://www.sqlite.org) for SQL-based data storage and queries.
 
 ---
+---
 ##Usage
+
 Querying the Database
-- Enter a question: Type your query in plain English (e.g., "How many records are in the users table?").
-- Submit: Click the button to generate the corresponding SQL query.
-- View Results: The SQL query is executed against the connected database, and the results are displayed in a table.
-Example Queries
+- **Enter a question**: Type your query in plain English (e.g., "How many records are in the users table?").
+- **Submit**: Click the button to generate the corresponding SQL query.
+- **View Results**: The SQL query is executed against the connected database, and the results are displayed in a table.
+  
+**Example Queries**
 "What is the average age of users?"
 "Show me the total sales for the last quarter."
 "How many customers signed up last month?"
 The app will automatically convert these natural language queries into SQL and fetch the corresponding data from the database.
-## Setup and Installation
+
+---
+
 
 ### Prerequisites
 

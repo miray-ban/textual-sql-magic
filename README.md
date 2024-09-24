@@ -1,7 +1,9 @@
 # 🌟 Textual SQL Magic 🌟
 
- ![text2](https://github.com/user-attachments/assets/9b0ce252-9900-4156-8f52-04d5042d5906)
+**First interface**
 ![text1](https://github.com/user-attachments/assets/94a9d798-460f-4fde-aaf1-d240ea16ff97)
+**After submit**
+![text2](https://github.com/user-attachments/assets/9b0ce252-9900-4156-8f52-04d5042d5906)
 
 
 ## Table of Contents

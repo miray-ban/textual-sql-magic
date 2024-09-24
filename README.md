@@ -10,8 +10,10 @@ Table of Contents:
 * Contributing
 * License
 
-  Overview
-The Text to SQL LLM App is an intuitive application that enables users to query a database using natural language. Instead of writing complex SQL commands, users can simply type in plain English questions, and the app will convert them into SQL queries. This allows non-technical users to easily retrieve data from databases without needing SQL knowledge.
+Overview
+The Text to SQL LLM App is an intuitive application that enables users to query a database using natural language. 
+Instead of writing complex SQL commands, users can simply type in plain English questions, and the app will convert them into SQL queries. 
+This allows non-technical users to easily retrieve data from databases without needing SQL knowledge.
 
 The core of the app is powered by a language model (LLM) that translates human language into structured SQL commands, making it useful for data retrieval across various domains.
 
